@@ -6,6 +6,5 @@
 2. Second item
 3. Third item
 
-##dsdasd
 **bold text**
 *italicized text* 
