@@ -10,3 +10,6 @@
 
 **bold text**
 *italicized text* 
+
+When you need to highlight a certain word you use ==,
+I need to higlight ==these words==.
