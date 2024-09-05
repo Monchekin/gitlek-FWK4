@@ -8,11 +8,19 @@ ________________________________________________________________________________
 :smilling_face_with_smiling_eyes:
 :relaxed:
 
+
+
+##How to make a Blockquote in markdown:
+
 >Blockquote
+
+##How to make a list in markdown.
 
 1. First item
 2. Second item
 3. Third item
+
+##How to make text in bold and italic:
 
 **bold text**
 *italicized text*
