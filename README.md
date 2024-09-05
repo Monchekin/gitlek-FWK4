@@ -5,7 +5,6 @@ If you want to create an ordered list, add line items with numbers followed by p
 
 To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items. Indent one or moreitems to create a nested list 
 __________________________________________________________________________________________________________
-:smilling_face_with_smiling_eyes:
 :relaxed:
 
 
@@ -23,5 +22,8 @@ ________________________________________________________________________________
 ##How to make text in bold and italic:
 
 **bold text**
-*italicized text*
+*italicized text* 
 
+When you need to highlight a certain word you use ==,
+I need to higlight ==these words==.
+*italicized text*
