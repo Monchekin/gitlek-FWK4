@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 
 
-##How to make a Blockquote in markdown:
+##How to make a Blockquote in markdown, add ">" before the word you want to blockquote.
 
 >Blockquote
 
