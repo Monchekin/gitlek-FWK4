@@ -13,15 +13,17 @@ ________________________________________________________________________________
 
 >Blockquote
 
-##How to make a list in markdown.
+##How to make a list in markdown, put "1." before the list item.
 
 1. First item
 2. Second item
 3. Third item
 
 ##How to make text in bold and italic:
-
+add ** before the text you want bold.
 **bold text**
+
+add * before the word to make it italic.
 *italicized text* 
 
 When you need to highlight a certain word you use ==,
